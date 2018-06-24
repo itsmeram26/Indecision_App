@@ -67,7 +67,7 @@ class IndecisionApp extends React.Component {
         }));
     }
     render() {
-        const subTitle = 'I am a sub title';
+        const subTitle = 'I am a sub-title';
         return (
             <div>
                 <Header subTitle={subTitle}/>
